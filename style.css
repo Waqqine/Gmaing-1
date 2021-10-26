@@ -381,14 +381,14 @@
   height: 525px;
   width: 400px;
   border-radius: 4px;
-  background-image: url("/images/pic2.jpg");
+  background-image: url("images/pic2.jpg");
   background-size: cover;
   position: relative;
   color: #fff;
 }
 
 .services__card:nth-child(2) {
-  background-image: url("/images/pic3.jpg");
+  background-image: url("images/pic3.jpg");
 }
 
 .services h2 {
